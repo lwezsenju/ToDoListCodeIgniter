@@ -1,5 +1,21 @@
-# CodeIgniter 4 Application Starter
+# TodoList
 
+## TodoList CodeIgniter
+
+This repository contains a simple To-Do List application built with CodeIgniter 4.
+The project aims to provide a clear and easily extensible task management example that
+demonstrates common CRUD operations (create, read, delete) and basic status handling.
+It serves both as a learning project for CodeIgniter patterns and as a starting point for
+building more advanced features.
+
+## Features
+
+- Create, and delete tasks
+- Mark tasks as completed (status management)
+- Persistent storage via a database (e.g. MySQL or SQLite)
+- Clean MVC structure with Controllers, Models, and Views (CodeIgniter 4)
+- Form validation, routing, and simple session usage
+- Easily extendable (e.g. user management, REST API, filtering)
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
